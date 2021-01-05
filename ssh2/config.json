@@ -1,6 +1,6 @@
 {
   "name": "Terminal & SSH & Joe Editor",
-  "version": "18.10.0",
+  "version": "8.10.0",
   "slug": "ssh2",
   "description": "Allow logging in remotely to Home Assistant using SSH",
   "url": "https://github.com/45clouds/addons/tree/master/ssh2",
